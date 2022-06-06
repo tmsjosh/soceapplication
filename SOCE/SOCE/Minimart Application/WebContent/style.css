@@ -1,0 +1,29 @@
+h1{
+	font-color: red;
+}
+
+#card{
+	display: flex;
+	justify-content: center;
+}
+
+#nav-link {
+	padding: 16px 0px 16px 0px;
+	background: orange;
+	border: 1px solid #E2E5E6;
+	justify-content:center;
+}
+.nav-link {
+	border: 1px solid black;
+}
+
+button {
+	justify-content: center;
+	align-items: center;
+	padding: 10px 35px;
+	background: #00ACAC;
+	border-radius: 30px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+}
